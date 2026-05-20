@@ -1,3 +1,3 @@
-version=2:9.1.2141-1
-git_src -b debian/2%9.1.2141-1 https://salsa.debian.org/vim-team/vim.git
+version=2:9.2.0461-1
+git_src -b debian/2%9.2.0461-1 https://salsa.debian.org/vim-team/vim.git
 version_suffix=gl0~bp1877

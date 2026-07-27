@@ -1,4 +1,4 @@
-orig_version=9.2.0524-1
+orig_version=9.2.0782-1
 version_prefix=2
 version="${version_prefix}:${orig_version}"
 

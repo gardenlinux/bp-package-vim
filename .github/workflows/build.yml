@@ -10,3 +10,4 @@ jobs:
       release: ${{ github.ref == 'refs/heads/main' }}
       build_dep: |
         gardenlinux/package-perl 5.42.2-3gl0+bp1877
+        gardenlinux/package-libtext-charwidth-perl 0.04-11gl0+bp1877

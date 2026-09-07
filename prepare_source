@@ -1,6 +1,3 @@
-orig_version=9.2.0782-1
-version_prefix=2
-version="${version_prefix}:${orig_version}"
-
-git_src -b debian/${version_prefix}%${orig_version} https://salsa.debian.org/vim-team/vim.git
+version=2:9.2.0858-1
+git_src -b debian/2%9.2.0858-1 https://salsa.debian.org/vim-team/vim.git
 version_suffix=gl0~bp2150
